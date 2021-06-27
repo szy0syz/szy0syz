@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=szy0syz.szy0syz)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szy0syz&layout=compact&theme=cobalt)](https://github.com/szy0syz/)
