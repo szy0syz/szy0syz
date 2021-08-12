@@ -10,37 +10,12 @@
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-%234fc08d?style=flat-square&logo=vue-dot-js&logoColor=ffffff)
-![React](https://img.shields.io/badge/-React-%2361dafb?style=flat-square&logo=react&logoColor=ffffff)
-![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=next-dot-js&logoColor=ffffff)
-![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white)
-![TailwindCss](https://img.shields.io/badge/-TailwindCss-%2338b2ac?style=flat-square&logo=tailwind-css&logoColor=ffffff)
-![Styled--Components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
-![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=flat-square&logo=ant-design&logoColor=white)
-![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=flat-square&logo=testing-library&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat-square&logo=jest&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=ffffff)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-%234B275F?style=flat-square&logo=rust&logoColor=ffffff)
-![Nest.js](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white)
-![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=flat-square&logo=strapi&logoColor=white)
-![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=flat-square&logo=reactivex&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-
-
-![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=flat-square&logo=linux&logoColor=%23ffffff)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=docker&logoColor=ffffff)
-![Ansible](https://img.shields.io/badge/-Ansible-%23EE0000?style=flat-square&logo=ansible&logoColor=ffffff)
-![Terraform](https://img.shields.io/badge/-Terraform-%23623CE4?style=flat-square&logo=terraform&logoColor=ffffff)
-![Serverless](https://img.shields.io/badge/-Serverless-%23FD5750?style=flat-square&logo=serverless&logoColor=ffffff)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
+| End                                                          | Stack                                                        |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![Language](https://img.shields.io/badge/-Language-black?style=flat) | ![Node.js](https://img.shields.io/badge/-Node.js-white?style=flat&logo=node.js) ![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-%234B275F?style=flat&logo=rust) |
+| ![Frontend](https://img.shields.io/badge/-Frontend-black?style=flat) | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat&logo=gatsby&logoColor=white) ![Leaflet](https://img.shields.io/badge/-Leaflet-199900?style=flat&logo=leaflet&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=flat&logo=ant-design&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) |
+| ![Styling](https://img.shields.io/badge/-Styling-black?style=flat) | ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%2338b2ac?style=flat&logo=tailwind-css&logoColor=ffffff) ![Styled--Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white) ![Less](https://img.shields.io/badge/-Less-1d365d?style=flat&logo=less&logoColor=white)  ![Sass](https://img.shields.io/badge/-Sass-c69?style=flat&logo=sass&logoColor=white) ![PostCSS](https://img.shields.io/badge/-PostCSS-dd3a0a?style=flat&logo=postcss&logoColor=white) |
+| ![Backend](https://img.shields.io/badge/-Backend-black?style=flat) | ![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=flat&logo=mongodb) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)  ![Redis](https://img.shields.io/badge/-Redis-white?style=flat&logo=Redis) ![NestJS](https://img.shields.io/badge/-NestJS-white?style=flat&logo=NestJS&logoColor=333) ![Fastify](https://img.shields.io/badge/-Fastify-white?style=flat&logo=fastify&logoColor=333) ![Graphql](https://img.shields.io/badge/-Graphql-white?style=flat&logo=graphql&logoColor=#E434AA) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=flat&logo=reactivex&logoColor=white) |
+| ![Devops](https://img.shields.io/badge/-Devops-black?style=flat) | ![GitHub Action](https://img.shields.io/badge/-GitHub_Actions-black?style=flat&logo=github) ![Nginx](https://img.shields.io/badge/-Nginx-CEF1D1?style=flat&logo=nginx) ![Docker](https://img.shields.io/badge/-Docker-cbe3f2?style=flat&logo=docker) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-cbe3f2?style=flat&logo=kubernetes) |
+| ![OS](https://img.shields.io/badge/-OS-black?style=flat)     | ![MacOS](https://img.shields.io/badge/-MacOS-white?style=flat&logo=macos&logoColor=333) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) |
+| ![Other](https://img.shields.io/badge/-Ohter-black?style=flat) | ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=Visual-Studio-Code) ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=flat&logo=testing-library&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white) |
