@@ -3,11 +3,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=szy0syz.szy0syz)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=szy0syz&count_private=true&theme=cobalt&show_icons=true)](https://github.com/szy0syz)
-</br>
-</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szy0syz&layout=compact&theme=cobalt)](https://github.com/szy0syz/)
 
-  
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 | End                                                          | Stack                                                        |
