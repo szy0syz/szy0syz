@@ -17,4 +17,8 @@
     <a href="https://www.vim.org/" target="_blank"><img src="img/vim.svg" alt="vim" width="40" height="40"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="img/javascript.svg" alt="javascript" width="40" height="40"/></a>
   </p>
+  
+  <p align="center">
+    <video width="320" style="width: 320px" src="https://user-images.githubusercontent.com/10555820/143402407-88f15529-4bc4-4547-8c1b-2ff39e0ce9dc.mp4"/>
+  </p>
 </div>
