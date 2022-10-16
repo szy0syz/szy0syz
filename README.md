@@ -2,7 +2,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=szy0syz.szy0syz)
 
-- 🌱
+- 🌱 I’m currently learning **Golang**
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=szy0syz&count_private=true&theme=cobalt&show_icons=true)](https://github.com/szy0syz)
 
