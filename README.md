@@ -23,6 +23,7 @@
         <a href="https://www.lua.org/" target="_blank"><img src="img/lua.svg" alt="lua" width="40" height="40"/></a>    
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="img/javascript.svg" alt="javascript" width="40" height="40"/></a>
         <a href="https://www.w3.org/html/" target="_blank"><img src="img/html5.svg" alt="html5" width="40" height="40"/></a>
-        <a href="https://www.w3schools.com/css/" target="_blank"><img src="img/css3.svg" alt="css3" width="40" height="40"/></a>    
+        <a href="https://www.w3schools.com/css/" target="_blank"><img src="img/css3.svg" alt="css3" width="40" height="40"/></a>
+        <a href="https://www.vim.org/" target="_blank"><img src="img/vim.svg" alt="vim" width="40" height="40"/> </a>
     </p>
 </div>
